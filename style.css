@@ -1,0 +1,27 @@
+
+body{
+    background-color: black;
+}
+#a{
+    color: white;
+    text-align: center;
+}
+#b{
+    color: white;
+    text-align: center;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Quicksand', sans-serif;
+}
+img{
+    border: 5px solid white;
+    margin-left: 88px;
+}
+#c{
+    margin: 0;
+}
+    
